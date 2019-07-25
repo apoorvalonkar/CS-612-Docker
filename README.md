@@ -1,4 +1,4 @@
-# CS-612-Docker
+# Docker_Project
 
 This project is all about Docker initialization and RESTful web service.
 flaskapp.py acts as rest service provider
